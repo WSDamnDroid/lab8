@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="ar1">
+    <item>list1item1</item>
+    <item>list1item2</item>
+    <item>list1item3</item>
+    <item>list1item4</item>
+    <item>list1item5</item>
+</string-array>
+<string-array name="ar2">
+    <item>list2item1</item>
+    <item>list2item2</item>
+    <item>list2item3</item>
+    <item>list2item4</item>
+    <item>list2item5</item>
+</string-array>
+</resources>
